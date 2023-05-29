@@ -10,4 +10,4 @@ def is_palindrome(string: str) -> bool:
     if string == string_inversa:
         return True
     else:
-    return False
+        return False
